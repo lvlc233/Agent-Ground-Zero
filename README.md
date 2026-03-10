@@ -1,2 +1,18 @@
 # Agent-Ground-Zero
-Let's dive back into Agent systems, starting from the very first line of code.
+在这个项目中,我们将带你重新的从零开始分析、构建、理解构成现代Agent应用生态体系的基础功能模块并尝试提供一种通用的模块,方便各位开发者能专心的处理Agent逻辑而无需考虑与设计基础的应用逻辑。
+
+在这个项目中,我们将不会讨论MCP,skill等(暂时没有这个计划,将这些放在该项目中),而是会去分析,如SSE,history,Agent State,UI,file upload,消息引用等基础内容,也会涉及到例如渐进式披露等高级内容。
+
+如果您先提供共享,欢迎提交
+
+如果有问题讨论,欢迎提交issues或添加qq群(暂时没建,不想建xixi)
+
+# 介绍 
+这里是总项目,请根据分支进行相关功能模块的切换,如果您是提交者,那么强烈建议在 # 介绍 下,输出关于该功能点的说明介绍,并在目录下提供项目目录介绍
+
+# 目录
+在该项目中,一个版本就是一个功能点的分析介绍,您可以通过切换不同的分支来按照自己的需求了解
+SSE(base): 这里介绍了关于现代Agent的SSE 前后端的设计,后端使用python,langchain,fastapi,前端使用react (申明: 仅个人理解,仅供参考和学习)
+
+
+
